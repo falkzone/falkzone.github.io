@@ -4,7 +4,7 @@ Why Jekyll?
 
 Jekyll is built from the Ruby coding language. Ruby Gems makes setting up Ruby software like Jekyll easy, no CMS and Database.
 
-# AND
+# and if you want to
 
 Project PagesPermalink
 
