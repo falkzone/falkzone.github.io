@@ -1,4 +1,4 @@
-# My github page with Jekyll and dogger support
+# My GitHub Page
 
 Why Jekyll?
 
