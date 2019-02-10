@@ -14,4 +14,3 @@ What else do you need?
 ### my history
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my CV](https://falkzone.github.io/file/cv.pdf "Curriculum Vitae"){:target="_blank"} and it will answer **all** your questions.
-[Test Link](https://example.org/ "title" target="_blank")
