@@ -6,7 +6,6 @@ image: /img/jekyll-github.png
 tags: [Blog, Jekyll, GitHub]
 ---
 
-
 I recently migrated one blog from WordPress to Jekyll, a fantastic website generator that’s designed for building minimal, static blogs to be hosted on GitHub Pages. The simplicity of Jekyll’s theming layer and writing workflow is fantastic; however, setting up of the website took a lot longer than expected.
 
 What is Jekyll? Jekyll is a website generator that’s designed for building minimal, static blogs to be hosted on GitHub Pages.
