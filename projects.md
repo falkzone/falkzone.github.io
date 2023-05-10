@@ -16,7 +16,7 @@ This is a collection of some personal projects I've worked on that are easily vi
 
 - **[Small RSS-APP](https://github.com/falkzone/iRSS-APP "iOS RSS app")** - RSS for iPhone is a easy to use Small RSS reader. iRSS uses the combination of a UITableView and UIWebView to download and present an RSS feed to the user. iRSS is based on a Single View Application and works on iOS 9.0 and higher.
 
-- **[Glittr.com offline]** - spin-off of MakeupBee that was designed to be more focused on mainstream looks and have a cleaner feel. I've written most of the code for this site.
+- **[Glittr.com offline]** - spin-off of MakeupBee that was designed to be more focused on mainstream looks and have a cleaner feel. I've written wrote part of the code for this site.
 
 
 ## Misc
