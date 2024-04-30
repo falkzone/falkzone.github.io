@@ -9,4 +9,4 @@ tags: [app, iPhone, scripts]
 
 RSS APP for iPhone is a easy to use RSS reader. (Comes with PDF implementation guide). iRSS uses the combination of a UITableView and UIWebView to download and present an RSS feed to the user. RSS is based on a Single View Application and works on iOS 9.0 and higher
 
-iRSS simple RSS Reader. [iRSS Beta Version 1.0 on GITHUB](https://github.com/falkzone/iRSS-APP)
+iRSS simple RSS Reader. [iRSS Final Version 1.0 on GITHUB](https://github.com/falkzone/iRSS-APP)
